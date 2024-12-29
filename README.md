@@ -1,0 +1,6 @@
+# 新版财富理财投资金融源码 P2P分红系统,投资自动分红
+
+更新内容：<br>1、增加双端签到功能，后台可自由设置开启或者设置金额。<br>2、增加双端注册必填邀请码<br>2、手机端：新增后台设置APP下载链接，调整推广链接为APP二维码。<br>3、修复项目投资进度之前版本不会变动的问题。（注意项目额度不宜过大）<br>4、手机端图标美化，修复代码中的安全问题<br>5、绑定银行卡短信去除<br>example.com.15功能升级<br>1、后台增加管理员登陆日志记录功能，防止黑客。<br>2、调整一键返息准确无误。<br>3、界面图片优化，项目图标去广告，后台一键设置网站名称。<br>4、短信通道升级（目前支持短信宝、叮咚云、云之讯）。<br>example.com.20更新功能<br>1、修复自动返息功能部分项目不返本金的bug<br>2、优化后台部分设置项目的提示，更方便小白使用<br>3、后台新增加查看会员登陆日志，更方便知道会员登陆频率<br>example.com.25更新功能<br>1、手机端同步首页滚动公告，后台控制<br>2、后台新增添加会员功能<br>3、对注册手机号正则验证修正更新，新增17*段的号码验证支持<br>4、增加多种一键返息设置方式，设置更简单<br>example.com，增加自动一键返息功能。<br>=============================================<br>【必看—关于安装：本店提供的安装服务根据条款本站将负责把源码安装和演示站一致，不包括安装宝塔，配置环境，源码修改，接口对接，二次修改以及BUG修复等，所以请每位买家购买之前务必认真测试好演示站】<br>演示站：http://example.com/mobile/<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/rYxe7" style="color: red;">https://mega-file.org/rYxe7</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
